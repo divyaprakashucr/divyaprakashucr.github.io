@@ -1,10 +1,7 @@
 earch# main links links
 main:
   - title: "About"
-    url: /about/
-
-  - title: "Research"
-    url: /projects/   
+    url: /about/ 
 
   - title: "Reports"
     url: /projects/    
