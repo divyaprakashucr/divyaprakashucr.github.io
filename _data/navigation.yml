@@ -3,12 +3,9 @@ main:
   - title: "About"
     url: /about/ 
 
-  - title: "Projects"
+  - title: "Policy Reports"
     url: /projects/    
 
   - title: "Talks"
     url: /talks/    
-    
-  - title: "CV"
-    url: /cv/
 
