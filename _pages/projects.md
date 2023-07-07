@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Policy Reports"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
