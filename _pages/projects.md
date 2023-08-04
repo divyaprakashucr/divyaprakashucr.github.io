@@ -16,7 +16,7 @@ author_profile: true
 ## Editor
 * [Economic and Social Upgrading in Global Value Chains: A Case Study of Thailand’s Electronics Sector](/files/2021_GVC_Thailand.pdf). (2021).
 * [Economic and Social Upgrading in Global Value Chains: A Case Study of Myanmar's Garment Sector](/files/2021_GVC_Myanmar.pdf). (2021).
-* [Economic and Social Upgrading in Global Value Chains: A Case Study of Vietnam’s Apparel and Electronics Sectors](/files/2019_JJI.pdf). (2021).
+* Economic and Social Upgrading in Global Value Chains: A Case Study of Vietnam’s Apparel and Electronics Sectors. (2021).
   
 ## Research Assistance
 * JustJobs Network. (2022). [Pathways to Work: Mapping Education, Skills and Employability to Labour Market Demand](/files/2022_pathways-to-work.pdf)
