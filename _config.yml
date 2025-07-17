@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Divya Prakash"
   avatar           : "profile.png"
-  bio              : "Economics & Public Policy Graduate | Researcher"
-  location         : "New York"
+ # bio              : "Economics & Public Policy Graduate | Researcher"
+  location         : "California"
  # employer         : "UC, Riverside"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=OGyOMmsAAAAJ&hl=en"
   email            : "dprak004@ucr.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Divya-Prakash-33?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/divyaprakash19/"
   orcid            : 
   pinterest        :
   soundcloud       :
