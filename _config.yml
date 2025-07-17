@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Divya Prakash"
 title_separator          : "-"
-name                     : &name "Divya Prakash"
+#name                     : &name "Divya Prakash"
 description              : &description "personal description"
 url                      : https://divyaprakashucr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
