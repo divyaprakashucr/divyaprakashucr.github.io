@@ -12,10 +12,10 @@ author_profile: true
 
 ## Policy Reports and Other Publications
 
-*	Sabina Dewan, Matheis V. Tanja and Divya Prakash. 2021. [JustJobs in Global Value Chains: Defining Inclusive Industrialization in ASEAN](/files/2021_GVC_Report.pdf)
-*	JustJobs Network. 2021. [The Philippines in the Electronics Global Value Chains: A Brief](/files/2021_Philippines_Brief.pdf)
-*	JustJobs Network. 2019. [The Jobs Imperative: Improving Employment Outcomes for India's Youth](/files/2019_MSDF.pdf)
-*	Sabina Dewan and Divya Prakash. 2019. [A Just Jobs Index for India: How do Indian States Fare in the Creation of Good Jobs?.](/files/2019_JJI.pdf)
+*	Sabina Dewan, Matheis V. Tanja and Divya Prakash. 2021. [JustJobs in Global Value Chains: Defining Inclusive Industrialization in ASEAN](/files/2021_GVC_Report.pdf).
+*	JustJobs Network. 2021. [The Philippines in the Electronics Global Value Chains: A Brief](/files/2021_Philippines_Brief.pdf).
+*	JustJobs Network. 2019. [The Jobs Imperative: Improving Employment Outcomes for India's Youth](/files/2019_MSDF.pdf).
+*	Sabina Dewan and Divya Prakash. 2019. [A Just Jobs Index for India: How do Indian States Fare in the Creation of Good Jobs?](/files/2019_JJI.pdf).
 *	Sabina Dewan and Divya Prakash. 2019. [The Evolving Discourse on Job Quality from Normative frameworks to Measurement Indicators: The Indian Example.](/files/2019_CSE_Dewan_Prakash_Job_Quality.pdf) CSE Working Paper, Centre for Sustainable Development, Azim Premji University.
 * [Economic and Social Upgrading in Global Value Chains: A Case Study of Thailand’s Electronics Sector](/files/2021_GVC_Thailand.pdf). 2021.
 * [Economic and Social Upgrading in Global Value Chains: A Case Study of Myanmar's Garment Sector](/files/2021_GVC_Myanmar.pdf). 2021.
