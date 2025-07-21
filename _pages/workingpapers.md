@@ -7,7 +7,9 @@ author_profile: true
 
 <!--### Presentations--> 
 
-* **Divya Prakash**, Mehdi Nemati, Ariel Dinar, Scott MacKenzie, Cory Struthers, and Matthew S. Shugart. (2023). [Advancements to the Ricardian Analysis in the Past Quarter of the Century](/files/Ricardian2023.pdf). UCR SPP Working Paper Series. February 2023 – WP#23-01 (Revise and Resubmit at Climate Change Economics)
-* **Divya Prakash**, Mehdi Nemati, Ariel Dinar, Scott MacKenzie, Cory Struthers, and Matthew S. Shugart. (2023). “Impact of Drought and Institutional Interventions on Adoption of Irrigation Technologies and Agricultural Land Use in California.”
-* Dinar, A., U. Lall, **D. Prakash**, and L. Josset. 2023. “Economic and Social Cost of Land Subsidence with Focus on the Urban Sector.” Background paper, World Bank, Washington, DC
 
+* **Divya Prakash**, Mehdi Nemati, Ariel Dinar, Scott MacKenzie, Cory Struthers, and Matthew S. Shugart. “Impact of Drought on Adoption of Irrigation Technologies and Agricultural Land Use in California” resubmitted to Journal of Agricultural and Resource Economics.
+  
+* **Prakash, Divya**, Erik Porse, Mehdi Nemati, Rachel Shellabarger and Ariel Dinar. “How Water Quality Coalitions Differ: Nitrogen Management and Grower Responses under ILRP in California’s Central Valley”.
+
+* Josset, Laureline, Upmanu Lall, **Divya Prakash**, and Ariel Dinar. "[Public Health, Socioeconomic and Environmental Impacts of Urban Land Subsidence](https://essopenarchive.org/users/744843/articles/717164-public-health-socioeconomic-and-environmental-impacts-of-urban-land-subsidence)". Authorea Preprints (2024).
