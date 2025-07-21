@@ -7,8 +7,8 @@ author_profile: true
 
 ## Peer Reviewed Published Research
 
-* Prakash, Divya, Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott Mackenzie, and Matthew S. Shugart. "[Advancements to the Ricardian Analysis in the Past Quarter of the Century](https://www.worldscientific.com/doi/abs/10.1142/S2010007823500318?srsltid=AfmBOorqQxO-nCH3FJ1KS-l8MG4AYhe5OxFPvUhNDdCzvTaDg4z5vtz9)." Climate Change Economics 15, no. 03 (2024): 2350031.
-* Prakash, Divya, Erik Porse, Mehdi Nemati, Rachel Shellabarger and Ariel Dinar. (2025). “Adoption Patterns of On-Farm Nutrient Management Plans and Nitrogen Application Rates in California's Central Valley” (Forthcoming at [California Agriculture](https://californiaagriculture.org/)).
+* **Prakash, Divya**, Mehdi Nemati, Ariel Dinar, Cory Struthers, Scott Mackenzie, and Matthew S. Shugart. "[Advancements to the Ricardian Analysis in the Past Quarter of the Century](https://www.worldscientific.com/doi/abs/10.1142/S2010007823500318?srsltid=AfmBOorqQxO-nCH3FJ1KS-l8MG4AYhe5OxFPvUhNDdCzvTaDg4z5vtz9)." Climate Change Economics 15, no. 03 (2024): 2350031.
+* **Prakash, Divya**, Erik Porse, Mehdi Nemati, Rachel Shellabarger and Ariel Dinar. (2025). “Adoption Patterns of On-Farm Nutrient Management Plans and Nitrogen Application Rates in California's Central Valley” (Forthcoming at [California Agriculture](https://californiaagriculture.org/)).
 
 ## Policy Reports and Other Publications
 
