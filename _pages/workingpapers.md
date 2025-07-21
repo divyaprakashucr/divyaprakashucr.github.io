@@ -8,7 +8,7 @@ author_profile: true
 <!--### Presentations--> 
 
 
-* **Divya Prakash**, Mehdi Nemati, Ariel Dinar, Scott MacKenzie, Cory Struthers, and Matthew S. Shugart. “Impact of Drought on Adoption of Irrigation Technologies and Agricultural Land Use in California” resubmitted to Journal of Agricultural and Resource Economics.
+* **Prakash, Divya**, Mehdi Nemati, Ariel Dinar, Scott MacKenzie, Cory Struthers, and Matthew S. Shugart. “Impact of Drought on Adoption of Irrigation Technologies and Agricultural Land Use in California” resubmitted to Journal of Agricultural and Resource Economics.
   
 * **Prakash, Divya**, Erik Porse, Mehdi Nemati, Rachel Shellabarger and Ariel Dinar. “How Water Quality Coalitions Differ: Nitrogen Management and Grower Responses under ILRP in California’s Central Valley”.
 
